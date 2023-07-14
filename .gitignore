@@ -1,4 +1,6 @@
-.idea/
+.idea/*
 __pycache__
 flask_app/__pycache__
 flask_app/app.db
+.DS_Store
+logs/*
